@@ -1,1 +1,1 @@
-# Laravel-stock-posh--8-
+# Laravel-stock-posh-8
